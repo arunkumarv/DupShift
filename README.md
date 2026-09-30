@@ -1,4 +1,4 @@
-# Duplicate Remover
+# DupShift Duplicate Remover
 
 This repo has programs to:
 
