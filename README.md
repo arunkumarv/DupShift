@@ -1,4 +1,4 @@
-# What and Why
+# Duplicate Remover
 
 This repo has programs to:
 
